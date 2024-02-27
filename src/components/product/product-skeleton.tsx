@@ -9,6 +9,7 @@ const ProductSkeleton = () => {
         <div className="space-y-2">
             <Skeleton className="h-4 w-auto" />
             <Skeleton className="h-4 w-auto" />
+            <Skeleton className="h-4 w-auto" />
         </div>
       </div>
     </div>
